@@ -1,0 +1,58 @@
+body{
+    background-color: #a1a1a1;
+}
+
+.navigation{
+    margin: -10px;
+    position: fixed;
+    background-color:black;
+    width: 200px;
+    height: 100%;
+    float: inline-start;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.navigation p{
+    padding: 50px;
+}
+
+.navigation ul{
+    list-style-type: none;
+}
+
+.navigation li{
+    margin-top: 40px;
+}
+
+.navigation a{
+    color: white;
+}
+
+.navigation a:hover{
+    color: aqua;
+}
+
+.introduce{
+    padding-top: 20px;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.info{
+    float: right;
+    margin-left: 10%;
+    width: 90%;
+    text-align: center;
+}
+
+.info h1{
+    margin-top: 90px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.info p{
+    margin-bottom: 30px;
+    text-align: center;
+}

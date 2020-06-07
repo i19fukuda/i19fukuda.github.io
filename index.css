@@ -1,0 +1,50 @@
+body{
+    background-color: #a1a1a1;
+}
+
+.navigation{
+    margin: -10px;
+    position: fixed;
+    background-color:black;
+    width: 200px;
+    height: 100vh;
+    float: inline-start;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.navigation p{
+    padding: 50px;
+}
+
+.navigation ul{
+    list-style-type: none;
+}
+
+.navigation li{
+    margin-top: 40px;
+}
+
+.navigation a{
+    color: white;
+}
+
+.navigation a:hover{
+    color: aqua;
+}
+
+.name{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.pro_img {
+    width: 100%;
+    text-align: center;
+}
+.pro_img img{
+    padding-top: 180px;
+    margin: 10px;
+    width: 350px;
+}

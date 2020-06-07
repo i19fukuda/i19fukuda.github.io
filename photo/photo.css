@@ -1,0 +1,34 @@
+body{
+    background-color: #a1a1a1;
+}
+
+.navigation{
+    margin: -10px;
+    position: fixed;
+    background-color:black;
+    width: 200px;
+    height: 100%;
+    float: inline-start;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.navigation p{
+    padding: 50px;
+}
+
+.navigation ul{
+    list-style-type: none;
+}
+
+.navigation li{
+    margin-top: 40px;
+}
+
+.navigation a{
+    color: white;
+}
+
+.navigation a:hover{
+    color: aqua;
+}
