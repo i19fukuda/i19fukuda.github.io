@@ -13,9 +13,6 @@ body{
     font-size: 40px;
     color: white;
 }
-.navigation p{
-    padding: 50px;
-}
 
 .navigation ul{
     list-style-type: none;
@@ -27,6 +24,7 @@ body{
 
 .navigation a{
     color: white;
+    font-family: serif;
 }
 
 .navigation a:hover{
