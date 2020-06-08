@@ -30,3 +30,7 @@ body{
 .navigation a:hover{
     color: aqua;
 }
+
+h{
+    float: right;
+}
