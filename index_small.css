@@ -1,0 +1,47 @@
+body{
+    background-color: #a1a1a1;
+}
+
+.navigation{
+    margin: -10px;
+    position: fixed;
+    background-color:black;
+    width: 15%;
+    height: 100vh;
+    float: inline-start;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation ul{
+    list-style-type: none;
+}
+
+.navigation li{
+    margin-top: 40px;
+}
+
+.navigation a{
+    color: white;
+    font-family: serif;
+}
+
+.navigation a:hover{
+    color: aqua;
+}
+
+.name{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.pro_img {
+    text-align: center;
+}
+.pro_img img{
+    padding-top: 180px;
+    margin: 10px;
+    width: 350px;
+}
